@@ -1,0 +1,3 @@
+[Week 1474](https://www.washingtonpost.com/arts-entertainment/2022/02/03/style-invitational-week-1744-hyphen-terrible-tour-de-fours/) of the Washington Post's *Style Invitational*  involved combining the different parts of hyphenated words found in WaPo articles. Since the online text didn't include the hyphenation, and I was spending enough time on the weekly contests as it was without trying to do some OCR pipeline, I ended up with some lists of hyphenations as I read the paper and wanted an automatic way to process 'em.
+
+It worked, so far as that went, but I quickly realized that my initial idea of "generate *all* the possible combinations and then read through 'em for the good ones" was... not gonna work.
